@@ -1,7 +1,5 @@
 # 2021-EMD-DDK-Articulatory-Features
 
-# 2021-EMD-DDK-Articulatory-Features
-
 This repository contains the articulatory features extracted from decompposed voice Intrinsic Mode Fucntions (using Empirical Mode Decomposition).
 
 The feature extract borrows the concept of "EMD as a Dyadic filterbank" from Patrick Flandrin. For function Gaussian, you can approximate the center freuqencies of subsequent IMF with a ratio of 2. For voice, when we look at vowel articulation, we look at the ratio of formants, such as F1/F2. We can apply this center frequency ratio from Flandrin's paper as articulatory measure. We can also use the IMF power ratio from his paper to see the power balancing between IMFs.
@@ -20,3 +18,6 @@ Files:
 If you use the code or method, please cite: 
 1. Elsevier Computer Speech and Language (in printing)
 2. A. Rueda and S. Krishnan, "Clustering Parkinson's and Age-related Voice Impairment Signal Features for Unsupervised Learning," Advances in Data Science and Adaptive Analysis, 2018. https://doi.org/10.1142/S2424922X18400077
+
+
+Questions and feedback: email: arueda@ryerson.ca
