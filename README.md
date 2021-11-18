@@ -16,7 +16,7 @@ Files:
 
 
 If you use the code or method, please cite: 
-1. Elsevier Computer Speech and Language (in printing)
+1. A. Rueda, J.C. Vasquez-Correa, J.R. Orozco-Arroyave, E. Noth, and S. Krishnan, "Empirical Mode Decomposition Articulation Feature Extraction on Parkinson's Diadochokinesia", Computer Speech and Language (in printing)
 2. A. Rueda and S. Krishnan, "Clustering Parkinson's and Age-related Voice Impairment Signal Features for Unsupervised Learning," Advances in Data Science and Adaptive Analysis, 2018. https://doi.org/10.1142/S2424922X18400077
 
 
