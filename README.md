@@ -15,9 +15,16 @@ Files:
 3. myFindIMFCenterFreq.m
 
 
+## Code Usage
 If you use the code or method, please cite: 
-1. A. Rueda, J.C. Vasquez-Correa, J.R. Orozco-Arroyave, E. Noth, and S. Krishnan, "Empirical Mode Decomposition Articulation Feature Extraction on Parkinson's Diadochokinesia", Computer Speech and Language (in printing. Pre-print version available at https://www.sciencedirect.com/science/article/pii/S0885230821001170)
+1. Rueda, A., Vásquez-Correa, J. C., Orozco-Arroyave, J. R., Nöth, E., & Krishnan, S. (2022). Empirical Mode Decomposition articulation feature extraction on Parkinson’s Diadochokinesia. Computer Speech and Language, 72, 101322. https://doi.org/10.1016/j.csl.2021.101322
 2. A. Rueda and S. Krishnan, "Clustering Parkinson's and Age-related Voice Impairment Signal Features for Unsupervised Learning," Advances in Data Science and Adaptive Analysis, 2018. https://doi.org/10.1142/S2424922X18400077
+
+## Access to /pa/, /ta/, and /ka/ segments
+If you want to use the segmented /pa/, /ta/, and /ka/, please email Dr. Orozco (rafael.orozco@udea.edu.co) and cite the following papers:
+1. Orozco-Arroyave, J. R., Arias-Londono, J. D., Vargas-Bonilla, J. F., González Rátiva, M. C., & Nöth, E. (2014). New Spanish speech corpus database for the analysis of people suffering from Parkinson’s disease. In Proc. Int. Conf. Lang Resour Eval (LREC) (pp. 342–347). Retrieved from http://www.lrec-conf.org/proceedings/lrec2014/summaries/7.html
+2. Rueda, A., Vásquez-Correa, J. C., Orozco-Arroyave, J. R., Nöth, E., & Krishnan, S. (2022). Empirical Mode Decomposition articulation feature extraction on Parkinson’s Diadochokinesia. Computer Speech and Language, 72, 101322. https://doi.org/10.1016/j.csl.2021.101322
+
 
 
 Questions and feedback: email: arueda@ryerson.ca
